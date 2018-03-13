@@ -1,8 +1,7 @@
 class Person
   
-  def intialize
+  def intialize(name)
     @name
-    @job
   end
   
   def name
